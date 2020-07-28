@@ -14,13 +14,14 @@ This project is a site for Student of Likelion X MJUSEOUL
 First of all, clone this repository
 
 ```bash
-$ git clone my repository url
+$ git clone https://github.com/hyunbin1/ToyProject.git
 ```
 
 ### 2. create virtual environment
 
 Second, prepare a virtual environment with the django and several packages.
 So you have to deleted my venv file, then make your own venv environment again.
+If you didn't do that, you can't use my project.
 
 ```[terminal] bash
 $ python -m venv venv
